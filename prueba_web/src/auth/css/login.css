@@ -1,0 +1,17 @@
+.centerForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.textLogin {
+    font-size: 40px;
+    font-family: "Arial Black";
+}
+
+.textTitle {
+    font-size: 40px;
+    font-family: "Arial Black";
+    color: white;
+}
